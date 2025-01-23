@@ -1,10 +1,22 @@
-# Getting Started with Create React App
+## React-Food-app  Application
 
+A simple application to fetch and display information about a food and add Favorites and remove Favorites options .[Run Project]( https://foodapplink.vercel.app/)
 
+## Technologies Used
 
-## Available Scripts
+- Frontend : React
+- Backend : Node.js
+- Deployment : vercel
 
-In the project directory, you can run:
+## Discription
+
+```
+This project features a React-based frontend interface that enables users to search for food items by name. The frontend seamlessly communicates with a NodeJS-powered backend server, facilitating the following functionalities:
+
+- Fetching a comprehensive list of food items
+- Adding and removing favorites
+- Dynamic theme switching via a dedicated button, allowing users to personalize their experience by changing the background color.
+
 
 ### `npm start`
 
