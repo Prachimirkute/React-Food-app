@@ -1,6 +1,6 @@
 ## React-Food-app  Application
 
-A simple application to fetch and display information about a food and add Favorites and remove Favorites options .[Run Project]( https://foodapplink.vercel.app/)
+A simple React-based application that retrieves and displays food information, allowing users to add and remove favorites, and also features a 'Change Theme' button for personalized interface customization .[Run Project]( https://foodapplink.vercel.app/)
 
 ## Technologies Used
 
